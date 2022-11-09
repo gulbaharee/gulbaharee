@@ -7,6 +7,7 @@
 - 🌱 I’m mostly developing .NET and .NET Core.
 - 🔖 I’m currently learning React.js and React Native technologies.
 - 🤔 My interest lies in Backend Developing and Mobile Programming
+- 🎨 And I love painting :)
 
 
 **Contact**
