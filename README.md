@@ -17,4 +17,6 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=gulbaharee&show_icons=true&theme=highcontrast" width="500">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulbaharee&show_icons=true&locale=en&layout=compact" alt="gulbaharee" /></p>
+
 
