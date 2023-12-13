@@ -3,10 +3,9 @@
 **About Me!**
 
 
-- 💻 I am working as a Computer Engineer at Siemens
-- 🌱 I’m mostly developing .NET and .NET Core.
-- 🔖 I’m currently learning React.js and React Native technologies.
-- 🤔 My interest lies in Backend Developing and Mobile Programming
+- 💻 I am studying for a MSc in Data Analytics at the National College of Ireland.
+- 🔖 I’m learning ML, Data Mining, BI, BA technologies and Statistics.
+- 🤔 My interest lies in data.
 - 🎨 And I love painting :)
 
 
