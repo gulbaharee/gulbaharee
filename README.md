@@ -1,12 +1,4 @@
-# Hello, I am Gülbahar Erol! 
-
-**About Me!**
-
-
-- 💻 I am studying for a MSc in Data Analytics at the National College of Ireland.
-- 🔖 I’m learning ML, Data Mining, BI, BA technologies and Statistics.
-- 🤔 My interest lies in data.
-- 🎨 And I love painting :)
+# Hello, I'm Gülbahar! 
 
 
 **Contact**
